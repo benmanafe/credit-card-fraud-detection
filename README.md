@@ -3,7 +3,7 @@
 A robust, full-stack anomaly detection application built with **PyTorch** and **Streamlit**. This project uses an unsupervised Autoencoder Deep Learning model to detect fraudulent credit card transactions based on reconstruction error, trained on real-world financial data.
 
 ## 🚀 Live Demo
-*(Optional: Add your Hugging Face Space link here if you deploy it, e.g., [View Live App](https://huggingface.co/spaces/YOUR_USERNAME/YOUR_SPACE_NAME))*
+*(Optional: Add your Hugging Face Space link here if you deploy it, e.g., [View Live App](https://k2rk3bn6v4sy2zkwjfhchr.streamlit.app/))*
 
 ## 📊 Dataset
 The model was trained on the **Credit Card Fraud Detection** dataset.
